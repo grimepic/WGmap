@@ -1,0 +1,2820 @@
+{
+   "TE23": {
+	"lessonInfo": [
+		{
+			"guidId": "MmEzNzJhYWYtYjFlMi1mOTI3LTk2NjEtYjI1ZTllMGNmZGM2",
+			"texts": [
+				"FYSFYS01a",
+				"MNDT",
+				"SE2069"
+			],
+			"timeStart": "14:10:00",
+			"timeEnd": "15:30:00",
+			"dayOfWeekNumber": 1,
+			"blockName": ""
+		},
+		{
+			"guidId": "YTEwZDE3MGEtOWZjYi1mNzQ4LTg0MDQtOTcxNmI2NDAwODBj",
+			"texts": [
+				"HISHIS01a1",
+				"AAFG",
+				"HA228"
+			],
+			"timeStart": "11:20:00",
+			"timeEnd": "14:00:00",
+			"dayOfWeekNumber": 1,
+			"blockName": ""
+		},
+		{
+			"guidId": "YWEzOWVjYjgtZDA1Yi1mYTM4LWIxY2QtOGZkYjgyZGZiN2I0",
+			"texts": [
+				"VEKVEK0",
+				"",
+				"JMHM",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NzZmY2I0MzQtNmNlNi1mNWRiLTliNjgtZGYxN2VlNThmN2My",
+			"texts": [
+				"DIGDIG01",
+				"",
+				"LABR",
+				"SN338"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZmM3MmM1NzYtYjNhNC1mZjU5LWFlMGEtZDRmNTJmZTdhMTFk",
+			"texts": [
+				"MALMAL01",
+				"",
+				"LALT",
+				"DA222KÖK"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NDJmMTJjMDUtOTY3NC1mOGEwLTk1NGQtZTA5YTFjNjhmNDU0",
+			"texts": [
+				"MALMAL01",
+				"",
+				"KMLT",
+				"DA204"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZWRiNGI0NTAtZTgyYS1mM2NjLWE4ZGUtZWFkYzlhNmYxNWEy",
+			"texts": [
+				"PSKPSY01",
+				"",
+				"EAGM1",
+				"SE2084"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NWIyNDkwNzctMTA2OS1mMWQwLWE3M2MtZDg4Yjk5MGVhMGRl",
+			"texts": [
+				"BILBIL01b",
+				"",
+				"MANR",
+				"SE3083"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MmMyOTNmNDEtNDZjNS1mZDJmLTgxYTYtODA5YjYwYjk1NmUy",
+			"texts": [
+				"JURPRI0",
+				"",
+				"EAUD",
+				"SE3057"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MmMzZTk3YmEtYTU0Yi1mOTY5LTliZDQtMjQwY2I3MTIxZGYz",
+			"texts": [
+				"SEVSEV01",
+				"",
+				"ERAN",
+				"DA228"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "Y2Y5MzIxMTgtMDdmNi1mNDhmLTgzZTYtZGQwNjNiOTQ2MTZk",
+			"texts": [
+				"ENGENG06",
+				"",
+				"MAHN",
+				"HA228"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NmIxYzFlOTktYzUwZS1mNmYwLWJmM2QtNmE2Nzc1NDMzYWVm",
+			"texts": [
+				"SAASVT0",
+				"",
+				"",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZDhmODg2ZGItNmU4Yi1mYzY2LTg1ODYtN2E4N2IxNzdiNmI2",
+			"texts": [
+				"VEKVEK0",
+				"",
+				"FKBG",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MzBkMTdjNDctYzkxNS1mNTAyLWIyZGUtYjY0YmRkM2JjOTA2",
+			"texts": [
+				"SVESVE02",
+				"",
+				"LAKE",
+				"SN229"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "M2VjNDc5MjQtMjVjYi1mYTMyLWJkZmUtYTYzZmRlNjRjZDc1",
+			"texts": [
+				"IDRIDR02",
+				"",
+				"HALR",
+				"GS1S"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "YTE4ZjU3MDUtMzA0Yi1mYmY3LTg1M2EtMDVjYzljZDg1ZWM4",
+			"texts": [
+				"PEDKOU0",
+				"",
+				"SEWL,MAHN1",
+				"SE2045"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NTYwZjQzZjMtYzgxOC1mNGY2LTk0NWYtNzYxOGM5NzZkNGJi",
+			"texts": [
+				"HALMEN0",
+				"",
+				"MADN",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZTBhNGVmNmEtYTk1Yi1mNDhlLWE4ZTktNTkxMjU4YTNkMGQz",
+			"texts": [
+				"BILBIL01b",
+				"",
+				"MNEM",
+				"SE3077"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MjVmM2U3ZGEtNTBlNy1mZTdkLTliMzMtZjQ4OTEyMTZjYzVm",
+			"texts": [
+				"SAASVT0",
+				"",
+				"TNAN",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "YWFmODBmNGQtMzAyOS1mZWQ5LWE2YWItZjVlZTY0OWUyM2U2",
+			"texts": [
+				"MUSMUS0",
+				"",
+				"GREE",
+				""
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MDgyYTk1ZGUtOWFiMi1mZjhlLTg4NmQtMjg3NmRhYmRmOWJl",
+			"texts": [
+				"IDRIDR02",
+				"",
+				"FALT",
+				"GS3L"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "YzNkN2MzZWItNjIwOC1mZDk3LTk3ZmYtMjMzMTgzMDA5NTRj",
+			"texts": [
+				"ENGENG06",
+				"",
+				"KRLE",
+				"HA217"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZTdlOTA0MTctY2Q5Zi1mNGM1LTg4NjgtMDUwOWI2M2IzNDg1",
+			"texts": [
+				"KOSFIL0",
+				"",
+				"KNWR",
+				"SN254HSAL"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NTllM2JiNWQtMjM1ZS1mZTljLTg0YTctMDY0MTA5ODU4OTgy",
+			"texts": [
+				"FOTFOT01",
+				"",
+				"KAJN",
+				"SE3086"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "ZjI0NzEyNmEtNGNkNC1mZTQ5LWJkZjUtZDhjOGMzMWYxNWU1",
+			"texts": [
+				"DIGDIG01",
+				"",
+				"AALC",
+				"SN339"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NTYyYWUwNjItMDFkZC1mMThmLWE3Y2EtMzA0ZmZjYTU5OGFh",
+			"texts": [
+				"IDRIDO01",
+				"PRSN,KASD",
+				""
+			],
+			"timeStart": "09:00:00",
+			"timeEnd": "10:30:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "MGQ3ZWI0ZjMtZDRiZS1mNjBlLThjM2QtYzI5YTQ2YzlkYzQ4",
+			"texts": [
+				"IDRIDO02",
+				"PRSN,KASD",
+				""
+			],
+			"timeStart": "09:00:00",
+			"timeEnd": "10:30:00",
+			"dayOfWeekNumber": 1,
+			"blockName": "IND2FM"
+		},
+		{
+			"guidId": "NzFjMDc1NDktOWQ1Ni1mY2I3LTg2NzktZjc2M2Y2OWM0NWUy",
+			"texts": [
+				"SVESVE02",
+				"LAHN",
+				"SN228"
+			],
+			"timeStart": "13:45:00",
+			"timeEnd": "15:10:00",
+			"dayOfWeekNumber": 2,
+			"blockName": ""
+		},
+		{
+			"guidId": "M2RhMzA5ODEtMmQwZS1mY2VhLThiZTAtNTU5N2M3MmI2M2Zl",
+			"texts": [
+				"ENGENG06",
+				"LAHN",
+				"SE3060"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "09:25:00",
+			"dayOfWeekNumber": 2,
+			"blockName": ""
+		},
+		{
+			"guidId": "OWNlMTM1OTItYTYyNS1mMDMzLTkzMTgtMjU2OGEyMzZmYTEx",
+			"texts": [
+				"MATMAT03c",
+				"LIRR",
+				"SE3057"
+			],
+			"timeStart": "09:35:00",
+			"timeEnd": "11:10:00",
+			"dayOfWeekNumber": 2,
+			"blockName": "TE2MAT"
+		},
+		{
+			"guidId": "ZGFmZDgzOTctMzkxOS1mYzljLTg3ZjctZjNlMjcwZDhkM2Rk",
+			"texts": [
+				"FYSFYS01a",
+				"MNDT",
+				"SE2069"
+			],
+			"timeStart": "11:50:00",
+			"timeEnd": "13:35:00",
+			"dayOfWeekNumber": 2,
+			"blockName": ""
+		},
+		{
+			"guidId": "NGUwOTMxN2EtNGQ0ZC1mN2ZmLWJlNzAtMTBhNmRmM2RmMWRk",
+			"texts": [
+				"MATMAT03c",
+				"LIRR",
+				"SE3060"
+			],
+			"timeStart": "11:50:00",
+			"timeEnd": "13:00:00",
+			"dayOfWeekNumber": 3,
+			"blockName": "TE2MAT"
+		},
+		{
+			"guidId": "ZmNlOGZjMGYtMTA1YS1mMDE3LTkzYzQtMjc4ZTQ5Yjg4Njk3",
+			"texts": [
+				"IDRIDO01",
+				"PRSN,KASD,KMGK,JAJN,CELT,EKLN,RDLG,CEMA,HSSI",
+				""
+			],
+			"timeStart": "13:45:00",
+			"timeEnd": "15:15:00",
+			"dayOfWeekNumber": 3,
+			"blockName": ""
+		},
+		{
+			"guidId": "ZDhjZTBkOTUtNGMzYy1mZDJiLWE4MWEtYWFlYmY3NGQwNDgy",
+			"texts": [
+				"DESDES01",
+				"MNEM",
+				"SE3083"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "10:30:00",
+			"dayOfWeekNumber": 3,
+			"blockName": "TE2B1"
+		},
+		{
+			"guidId": "ZjVhNzkyYTAtZGU3ZS1mOTE5LTk5NTAtNDcwZTVmNjY3MjM3",
+			"texts": [
+				"TEKTEK02",
+				"MNDT",
+				"SE2035,SE2036"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "11:10:00",
+			"dayOfWeekNumber": 3,
+			"blockName": "TE2B1"
+		},
+		{
+			"guidId": "MzBkNjMxODEtZTRmZC1mMzU3LWFjOGQtNWNhMjkwY2Q1MzYy",
+			"texts": [
+				"ARKARK0",
+				"RDHN",
+				"SE2104"
+			],
+			"timeStart": "13:10:00",
+			"timeEnd": "15:30:00",
+			"dayOfWeekNumber": 3,
+			"blockName": ""
+		},
+		{
+			"guidId": "M2Y5OTFlYTAtMjQ4OS1mYjIyLTgwOWItZjgyNDU4NDFhYzE2",
+			"texts": [
+				"FYSFYS01a",
+				"MNDT",
+				"SE2069"
+			],
+			"timeStart": "12:00:00",
+			"timeEnd": "13:50:00",
+			"dayOfWeekNumber": 4,
+			"blockName": ""
+		},
+		{
+			"guidId": "ZDE1ZmY4MmItYjJmNS1mMjY4LTkwNWYtMGVmNzRlYzdlZGI3",
+			"texts": [
+				"CADCAD02",
+				"MNDT",
+				"SE2104"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "11:20:00",
+			"dayOfWeekNumber": 4,
+			"blockName": "TE2B2"
+		},
+		{
+			"guidId": "NjBiMDNkMTUtMTM1NC1mM2E3LWI2MjQtNjJhZDYwZDRkZDBi",
+			"texts": [
+				"BILBIL01a1",
+				"MNEM",
+				"SE3083"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "11:20:00",
+			"dayOfWeekNumber": 4,
+			"blockName": "TE2B2"
+		},
+		{
+			"guidId": "NTE3MDA4NmUtMWNlZi1mZTA5LTgwYTAtZjZhNjkwOGM5OWRk",
+			"texts": [
+				"MATMAT03c",
+				"LIRR",
+				"SE2100"
+			],
+			"timeStart": "14:00:00",
+			"timeEnd": "15:30:00",
+			"dayOfWeekNumber": 4,
+			"blockName": "TE2MAT"
+		},
+		{
+			"guidId": "YmMwYTlmNGEtNDgxMy1mNGEzLWFmZWMtN2EwNjM1MzY2NTVm",
+			"texts": [
+				"SVESVE02",
+				"LAHN",
+				"HA228"
+			],
+			"timeStart": "09:25:00",
+			"timeEnd": "10:40:00",
+			"dayOfWeekNumber": 5,
+			"blockName": ""
+		},
+		{
+			"guidId": "OTIwMDVmNzUtYWFlZS1mOWU1LWI0NzYtM2U5NzU0MWMwMGIx",
+			"texts": [
+				"MATMAT03c",
+				"LIRR",
+				"SE2069"
+			],
+			"timeStart": "11:40:00",
+			"timeEnd": "13:25:00",
+			"dayOfWeekNumber": 5,
+			"blockName": "TE2MAT"
+		},
+		{
+			"guidId": "MWQxZTFmOGItYzJkOC1mZGY0LWFkNzktNjQ0NzA1YTgwYWVm",
+			"texts": [
+				"MENTOR",
+				"LAHN",
+				"HA228"
+			],
+			"timeStart": "10:40:00",
+			"timeEnd": "11:00:00",
+			"dayOfWeekNumber": 5,
+			"blockName": "TE2M"
+		},
+		{
+			"guidId": "MWRjMjI5NTEtNzJiMi1mNDg5LTkzZjktYjBmMGUwMDU0MjE4",
+			"texts": [
+				"MENTOR",
+				"MNEM",
+				"HA228"
+			],
+			"timeStart": "10:40:00",
+			"timeEnd": "11:00:00",
+			"dayOfWeekNumber": 5,
+			"blockName": "TE2M"
+		},
+		{
+			"guidId": "MjYwNDczNzMtYWEwMi1mNWRkLWE4MTYtNjNmODNiZGQyMWMx",
+			"texts": [
+				"ENGENG06",
+				"LAHN",
+				"HA228"
+			],
+			"timeStart": "08:00:00",
+			"timeEnd": "09:15:00",
+			"dayOfWeekNumber": 5,
+			"blockName": ""
+		}
+	]
+    },
+   "TE24": {
+        "lessonInfo": [
+            {
+                "guidId": "NWQ2ZGNhMTQtZWE1OC1mZjM4LWFjZDMtYjZjNDI0ZmY4YTY4",
+                "texts": [
+                    "ENGENG05",
+                    "LAHN",
+                    "HA126"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:15:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MTU2MmI0MDctYjY2NC1mZWNlLWEwMzMtNjllYmZkMmRiMzA2",
+                "texts": [
+                    "MEKMEK01",
+                    "JKEM",
+                    ""
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:50:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "TE1B1"
+            },
+            {
+                "guidId": "ZGU0OWVmZjQtMzRmNi1mYmJhLTlhYTgtM2I4ODViMDIzOTgx",
+                "texts": [
+                    "SVESVE01",
+                    "FALT",
+                    "SN303"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "13:45:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "M2ZjY2I0MjAtMWI3Ni1mOTdkLThlZjItZmQ3NzQyOWQyMTc1",
+                "texts": [
+                    "TEKTEK01",
+                    "SEMN",
+                    "SE2035"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "11:40:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "TE1B1"
+            },
+            {
+                "guidId": "ZTFiOWJhZGUtZWRlMy1mZTA0LTlmY2EtY2EwMjBhZDA5MDg5",
+                "texts": [
+                    "MATMAT01c",
+                    "IAGN",
+                    "SE3057"
+                ],
+                "timeStart": "13:55:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "TE1MAT"
+            },
+            {
+                "guidId": "OTEwNzNiNGQtZDNkNS1mY2E2LTliZDMtMzcyOWU1MDQxNjEx",
+                "texts": [
+                    "SVASVA01",
+                    "TABR",
+                    "DA327GR"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "13:45:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "OTE1YTUxMWQtYzUyNS1mZTMwLTliZDMtNzg1OWRmNjQ5ZDgz",
+                "texts": [
+                    "MATMAT01c",
+                    "IAGN",
+                    "SE2069"
+                ],
+                "timeStart": "13:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "TE1MAT"
+            },
+            {
+                "guidId": "NjUyM2FjOTAtMDg5NC1mODI5LWFmMWItZWY0OWIyMmIxMWQ0",
+                "texts": [
+                    "ENGENG05",
+                    "LAHN",
+                    "DA336"
+                ],
+                "timeStart": "12:05:00",
+                "timeEnd": "13:25:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "NzA5Mjc5MjYtNDUzMS1mMjA3LWJhZjItZTI5ZDFjOWUzNjVl",
+                "texts": [
+                    "IDRIDR01",
+                    "FALT",
+                    "GS3L"
+                ],
+                "timeStart": "09:45:00",
+                "timeEnd": "11:00:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "NjE3OWIzZDMtNDQ2MS1mZGExLWE3YjctYWM2ZjgyZjhiNjNj",
+                "texts": [
+                    "BIOBIO01",
+                    "TIWD",
+                    "SE2029"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:25:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "YjE1MmU3YjMtZmRkNC1mOGM0LTljNzYtMTMyZjg2Nzk0ZThh",
+                "texts": [
+                    "MEKMEK01",
+                    "JKEM",
+                    "Teknikcenter (vid E-huset)"
+                ],
+                "timeStart": "11:15:00",
+                "timeEnd": "12:45:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "NTRmZjhkODgtYTE0Yy1mOGNkLWIzN2MtYzAxZWVkMTJlNzVk",
+                "texts": [
+                    "TEKTEK01",
+                    "SEMN",
+                    "SE2035"
+                ],
+                "timeStart": "11:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "MDcxMDI4MGYtMTExMS1mZmNiLWI3NjMtNjRhZTI2MWIyMDZj",
+                "texts": [
+                    "MENTOR",
+                    "IAGN",
+                    "SE3060"
+                ],
+                "timeStart": "09:40:00",
+                "timeEnd": "10:00:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "TE1M"
+            },
+            {
+                "guidId": "MTdiMDNkYmUtYTNmMy1mOGUyLTkyZjQtODA0ZGQwYzMzODU4",
+                "texts": [
+                    "MENTOR",
+                    "SEMN",
+                    "SE3060"
+                ],
+                "timeStart": "09:40:00",
+                "timeEnd": "10:00:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "TE1M"
+            },
+            {
+                "guidId": "MGYxMzA4ZTktN2FkYi1mZjhmLWJhNGEtOTlmMTA1ZGYwMTAz",
+                "texts": [
+                    "MATMAT01c",
+                    "IAGN",
+                    "SE3060"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:40:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "TE1MAT"
+            },
+            {
+                "guidId": "MGQ3MTE0ODctOWUxOC1mNDFjLTg4MzgtNWRlNjFlN2Q2ZWJi",
+                "texts": [
+                    "IDRIDO01",
+                    "PRSN,KASD,KMGK,JAJN,CELT,EKLN,RDLG,CEMA,HSSI,VISS",
+                    ""
+                ],
+                "timeStart": "13:45:00",
+                "timeEnd": "15:15:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "NzgzN2JlYmItOWNiYy1mOWE2LTkxNTktOTg5NzQ2YWY0YTA3",
+                "texts": [
+                    "SVESVE01",
+                    "FALT",
+                    "SN229"
+                ],
+                "timeStart": "10:00:00",
+                "timeEnd": "11:15:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "NjhmYzhhY2ItODUxMC1mNDhiLThhN2ItZmFkYmYzYTRlNDcw",
+                "texts": [
+                    "BIOBIO01",
+                    "TIWD",
+                    "SE2027"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:50:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "MjgzMGQ2MTAtMDE3NS1mNjVkLTk3OWYtMTY3ZWMyYWViOGQ0",
+                "texts": [
+                    "IDRIDR01",
+                    "FALT",
+                    "GS3L"
+                ],
+                "timeStart": "12:10:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "ODAyMjVmODItNzc2Yi1mZjM0LWE5NzUtZWM0MDAwYjFmYjQz",
+                "texts": [
+                    "SVASVA01",
+                    "TABR",
+                    "DA327GR"
+                ],
+                "timeStart": "10:00:00",
+                "timeEnd": "11:15:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "YjNmNjgxN2EtNWIxNy1mZWZhLTgxMjEtZmU1YTc4YjcyMzE3",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "FKCN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "OGYyYmU0OGUtZjhkOS1mNGM4LTljMzYtZDBhMGE3NGI0MDg3",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "ASGM",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "YjlmNGIzOGMtOWQzZS1mMmE2LWEyMWYtOGViZWQ4MDJjY2Rm",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "MNEM",
+                    "SE3086"
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "ZmNiNTcxNzgtOTdiZi1mNWQ4LWIyNzctNzBmYzQyMThkMTUy",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "JKEM",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "MWMwY2ZlNTQtZDQ3My1mYTQxLWFlYTktOGRlOGY5NzcyMzJl",
+                "texts": [
+                    "MATMAT01c",
+                    "IAGN",
+                    "SE2070"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:50:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TE1MAT"
+            },
+            {
+                "guidId": "OWIxMjUwOTItY2E3OS1mMTQ0LWE0Y2QtM2RhMjFjNmE5YTI3",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "FKBG",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "MDJkMDE0NDItN2M5My1mZmNlLThjZGUtMjM0MTUxODM4YzAz",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "MIVA",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            },
+            {
+                "guidId": "NTEwMzliMDAtZDdlYi1mMTdjLWIyM2UtZmY4ZmY1ZDRmMzgw",
+                "texts": [
+                    "CADCAD01",
+                    "SEMN",
+                    "SE2069"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:15:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TE1B1"
+            },
+            {
+                "guidId": "YWJmYmYzZTMtZDZmMC1mMWI0LTljZTUtNmQwNmZhMTQwMTA3",
+                "texts": [
+                    "YRKDAG",
+                    "",
+                    "VRJN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "TC1FR"
+            }
+        ]
+    },
+    "ESMUS24": {
+        "lessonInfo": [
+            {
+                "guidId": "MTE0ZjgwYjctNzgzYi1mNDBmLWIxYWMtYWQ0OTdlOTk0M2Iw",
+                "texts": [
+                    "SAMSAM01b",
+                    "PRST",
+                    "HA217"
+                ],
+                "timeStart": "14:10:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZmUyMmY0ZTQtYWVhZS1mZDI2LWEyYmUtMjhmYTI4ZGVjNmFl",
+                "texts": [
+                    "HISHIS01b",
+                    "KNWR",
+                    "SN339"
+                ],
+                "timeStart": "10:50:00",
+                "timeEnd": "12:05:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "YmVlNTQ0NzEtOWViOC1mMzQ2LWFlMmQtY2Q0NGVlYzYxYzg4",
+                "texts": [
+                    "SVESVE01",
+                    "AASN",
+                    "SN310"
+                ],
+                "timeStart": "12:45:00",
+                "timeEnd": "13:55:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MjUzMzQ0OGQtODljMS1mOWI5LTk1ZDEtMjViYzc2NDgzMzI4",
+                "texts": [
+                    "MUIGEH01",
+                    "SNWR",
+                    "SE3097"
+                ],
+                "timeStart": "09:10:00",
+                "timeEnd": "10:25:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MDQ4Yjk2MGUtYmY5Mi1mYzFmLTkxMjYtYTYwMGViN2I0YzMw",
+                "texts": [
+                    "MATMAT01b",
+                    "RDEN",
+                    "SE2100"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:00:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "Y2ViZTEyMWYtOTBlZi1mMDBmLWJhNjMtZDRkNDQ3ZGYxZWNj",
+                "texts": [
+                    "MODSPA03",
+                    "",
+                    "JNBM",
+                    "HA129"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "ODQwMzQyMGItNzY3Zi1mZjFkLWIxZmMtY2FiZTRiNTJlMTFj",
+                "texts": [
+                    "MODDEU01",
+                    "",
+                    "HTET",
+                    "HA216"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "ZjUwOTc4M2QtNDU2ZS1mNmIzLWFjZGYtYzhmMWYzZTI4ZWRk",
+                "texts": [
+                    "MUSENS0",
+                    "",
+                    "PSNG",
+                    ""
+                ],
+                "timeStart": "08:45:00",
+                "timeEnd": "10:15:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "ESMUS-MUSENSGRP"
+            },
+            {
+                "guidId": "NTA4YjA1N2EtMjhkYy1mNGU5LWE3Y2UtZDMyZTQ0MzE5ODky",
+                "texts": [
+                    "HISHIS01b",
+                    "KNWR",
+                    "SN310"
+                ],
+                "timeStart": "12:45:00",
+                "timeEnd": "14:05:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "Y2M4YjQzZTktYWQxMy1mNzE4LWE3NjYtOGY1YjJkNjZhNjI4",
+                "texts": [
+                    "MUSENS0",
+                    "",
+                    "AALT",
+                    ""
+                ],
+                "timeStart": "08:45:00",
+                "timeEnd": "10:15:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "ESMUS-MUSENSGRP"
+            },
+            {
+                "guidId": "ZDRiNWQ4OTQtZjJlMS1mODE5LWI2MTgtMTQ4M2M2YmI5YThk",
+                "texts": [
+                    "MODFRA03",
+                    "",
+                    "RDBN",
+                    "HA118"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "NDQxNzZmNGYtODNhNi1mNTI3LWExOWItZjAzNzYxMGI5YjQ1",
+                "texts": [
+                    "MUSENS0",
+                    "",
+                    "SNWR",
+                    ""
+                ],
+                "timeStart": "08:45:00",
+                "timeEnd": "10:15:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "ESMUS-MUSENSGRP"
+            },
+            {
+                "guidId": "MGZjOTA2OGEtOTI5Yi1mNTIzLTgyMzMtOTZjMmY4MzhkMTI2",
+                "texts": [
+                    "MODDEU03",
+                    "",
+                    "MARR",
+                    "HA228"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "YjgwZWZhNzUtMGVhMi1mN2RiLWE5YzYtZDJjY2Y4ZDE0ODgz",
+                "texts": [
+                    "ENGENG05",
+                    "DLAN",
+                    "HA126"
+                ],
+                "timeStart": "10:45:00",
+                "timeEnd": "12:05:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "OWEwZjc4ZjQtNWZlZS1mNGUxLWE1MDctOGFhODcwNDE3OTU0",
+                "texts": [
+                    "MUSENS0",
+                    "",
+                    "GREE",
+                    ""
+                ],
+                "timeStart": "08:45:00",
+                "timeEnd": "10:15:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "ESMUS-MUSENSGRP"
+            },
+            {
+                "guidId": "OWQ5OGYyOTQtNzZjOS1mNWU0LTk4YzMtNDRlOWMyNDVjZjk5",
+                "texts": [
+                    "MODITA01",
+                    "",
+                    "SATE",
+                    "HA125"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "N2RiNDhiOGQtOTJiZi1mMGQ4LWJiMDktOWNlMTNjMTJlYzc4",
+                "texts": [
+                    "MATMAT01b",
+                    "RDEN",
+                    "SE2100"
+                ],
+                "timeStart": "12:35:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "M2QzMzVmOTktYWI5NS1mNTZiLWFjY2MtOTQzZTk2ZWIxNDMw",
+                "texts": [
+                    "KÖRSÅNG",
+                    "AALT",
+                    ""
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:55:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "ES3B1"
+            },
+            {
+                "guidId": "OWU1MmQwYmItMTA4Yy1mZGI3LWI2ZDAtOTFlNTliYmIyOTQ3",
+                "texts": [
+                    "KÖRSÅNG",
+                    "PSNG",
+                    ""
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:55:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "ES3B1"
+            },
+            {
+                "guidId": "NjI3ZWExYjUtYTEyYS1mZjZkLWEzZGItNDU4NDRmNjhlYWUw",
+                "texts": [
+                    "MUSBRU0",
+                    "AALT",
+                    ""
+                ],
+                "timeStart": "10:05:00",
+                "timeEnd": "11:25:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "ESHU1B1B"
+            },
+            {
+                "guidId": "MTI4OGE2YTItMTBiMi1mNmVjLThiZDktN2NiN2VmZWM4NDE1",
+                "texts": [
+                    "MUSBRU0",
+                    "GREE",
+                    ""
+                ],
+                "timeStart": "10:05:00",
+                "timeEnd": "11:25:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "ESHU1B1B"
+            },
+            {
+                "guidId": "NWRhYTJjNGMtMTg1My1mZjlmLWFhNDQtMTU1MGRlZmU2ODE0",
+                "texts": [
+                    "MODFRA03",
+                    "",
+                    "RDBN",
+                    "HA217"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "14:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "NDlkOWMxMDktNzcxOC1mOGM4LTk4YTItNjJmMzQ0N2UwYjVj",
+                "texts": [
+                    "MENTOR",
+                    "",
+                    "AASN",
+                    "SE2029"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "12:40:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "ESHU1M"
+            },
+            {
+                "guidId": "NjI5ZGNiYTctZTJkYS1mNzMwLTljODItZDVlNzVhM2Y3MmYz",
+                "texts": [
+                    "MENTOR",
+                    "",
+                    "AALT",
+                    "SE2029"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "12:40:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "ESHU1M"
+            },
+            {
+                "guidId": "NGY0NDU5NmQtZWUxNy1mYTBmLWE5NzgtYTkwMzFjMDRjNGZk",
+                "texts": [
+                    "MODITA01",
+                    "",
+                    "SATE",
+                    "HA125"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "14:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "MTU0YTA0NTYtOGQzMy1mMzM0LWEyYTUtOGNhMzM2ZTFjNjNm",
+                "texts": [
+                    "MODDEU01",
+                    "",
+                    "HTET",
+                    "HA216"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "14:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "MTJmNjYyNGItZGY0Yy1mNDliLWFkNmYtMTEwNTE1MTkxZGEy",
+                "texts": [
+                    "MODDEU03",
+                    "",
+                    "MARR",
+                    "HA228"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "14:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "ZWJkNTc4MjEtY2U3Yy1mOTc1LWIwODMtYWFmODMzOGZmODVj",
+                "texts": [
+                    "IDRIDR01",
+                    "CAWH",
+                    "SE2040"
+                ],
+                "timeStart": "10:10:00",
+                "timeEnd": "11:30:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "MTBjYTM0NWUtMjgxYi1mZGJlLTg5MDMtOWIyMTc0NTdlZDgx",
+                "texts": [
+                    "MENTOR",
+                    "",
+                    "MANR",
+                    "SE2029"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "12:40:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "ESHU1M"
+            },
+            {
+                "guidId": "MTkyODE1MjgtNWE1Ny1mYTI2LWE2YzgtOGJkZmQ1NTY4NWQ2",
+                "texts": [
+                    "ENGENG05",
+                    "DLAN",
+                    "HA118"
+                ],
+                "timeStart": "14:15:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "MjMwNjMzMzgtODBkNS1mZTlhLWE3NWUtNzYyNDE0NDM4ZDcw",
+                "texts": [
+                    "MODSPA03",
+                    "",
+                    "JNBM",
+                    "HA129"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "14:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "MOD1-A"
+            },
+            {
+                "guidId": "YThkZmFkNTUtZTQ3MS1mZjhkLWJhMDItZTExNzhiNmU2OGNm",
+                "texts": [
+                    "SAMSAM01b",
+                    "PRST",
+                    "SN242"
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "13:15:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "Y2RlZGExMjgtZTVmZC1mMmQ1LTkxOWItYzk3MGY0ZDY0NDVh",
+                "texts": [
+                    "SVESVE01",
+                    "AASN",
+                    "SN212"
+                ],
+                "timeStart": "13:35:00",
+                "timeEnd": "15:00:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "MTYwNzdlZGEtMTI2NC1mYzVkLTk3ODEtZWQwZTdjY2FjZjRm",
+                "texts": [
+                    "MATMAT01b",
+                    "RDEN",
+                    "SE2070"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:00:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "NDU0NTRjODMtNGJlNC1mOGQ5LWJmYTktYTEzZDgxODI3ZDZi",
+                "texts": [
+                    "IDRIDR01",
+                    "CAWH",
+                    "GS1S"
+                ],
+                "timeStart": "09:35:00",
+                "timeEnd": "10:45:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            }
+        ]
+    },
+    "FT24": {
+        "lessonInfo": [
+            {
+                "guidId": "MTdhNzBhY2YtZjQwNS1mMGZjLWI5MDQtNTZjODA3NWFlYmFk",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "Y2VjZGUzODktNzMyOC1mOWUyLWI4NTMtNjcyNDI3OGE2OTIz",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "09:15:00",
+                "timeEnd": "11:20:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MzBlMGI1NzUtZmYyNi1mMTQ4LWE1MDgtNTgzMWI3YTk4ZjIy",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "13:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "NzI1MjQ0ZTgtYTM4Mi1mYzZlLWJlZTAtYTA3YzdiODQxMjRi",
+                "texts": [
+                    "MATMAT01a",
+                    "CAKI",
+                    "SE2103"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "08:50:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MjRlNjI3ZjYtZTNjNS1mZmEwLWI5YzktNjY3NjMzMzM3NTk3",
+                "texts": [
+                    "KARAKTÄR",
+                    "RRJN",
+                    ""
+                ],
+                "timeStart": "13:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZmIyOWM2NTUtNjQ1OS1mMzYxLThlMDUtOWY1YTg0MTc5OWZk",
+                "texts": [
+                    "KARAKTÄR",
+                    "RRJN",
+                    ""
+                ],
+                "timeStart": "09:15:00",
+                "timeEnd": "11:20:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MWM4ZGVhNTctNTM4OS1mN2MzLTgxNjktYTkxNWVkMTViZjVl",
+                "texts": [
+                    "KARAKTÄR",
+                    "RRJN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "MjAyNGZmMWItMjlmNS1mOGRkLWJlODMtNTAxYzM1ZDVlOTVm",
+                "texts": [
+                    "MATMAT01a",
+                    "CAKI",
+                    "SE2103"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "08:50:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "YTZmNzQxMDItOGY1OS1mZTQ0LThiMWYtOWU0Y2NiMDg5N2M5",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "OTVlYjJiOGYtNmU2Yy1mN2Q4LTlhOWUtZTE4ZDk2N2MzZjE4",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "09:15:00",
+                "timeEnd": "11:20:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "MzE0ODhkN2ItOWU3Ni1mNGQ4LWI2M2UtNTEwYjdhMzYxOGU5",
+                "texts": [
+                    "KARAKTÄR",
+                    "TNAN",
+                    ""
+                ],
+                "timeStart": "09:15:00",
+                "timeEnd": "11:20:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZGM0MjEzODEtMWE0MS1mYWJkLWFjZmYtZjZhYmVjMTYyMTBk",
+                "texts": [
+                    "KARAKTÄR",
+                    "TNAN",
+                    ""
+                ],
+                "timeStart": "12:00:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZTBlOGE4NDYtOTI2OC1mNjczLTkwNWQtNDBiZTgwZWNlOTMx",
+                "texts": [
+                    "SVESVE01",
+                    "AAGN",
+                    "SN310"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:20:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "NzZhZTM0ZGQtNDQzMC1mODBlLWE2YmUtNWM5M2YxM2FhZWQ1",
+                "texts": [
+                    "ENGENG05",
+                    "DLAN",
+                    "HA217"
+                ],
+                "timeStart": "09:30:00",
+                "timeEnd": "10:50:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "MDcxNDg3OTItZmJiOC1mZWVhLThiMzctYzgyM2VlNGE5OGZm",
+                "texts": [
+                    "ENGENG05",
+                    "DLAN",
+                    "HA216"
+                ],
+                "timeStart": "08:20:00",
+                "timeEnd": "09:55:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZDI2Y2QzMDMtNzhiYS1mOGE2LWEzZWItNzU2YTM3NDAyZjU2",
+                "texts": [
+                    "MATMAT01a",
+                    "CAKI",
+                    "SE2103"
+                ],
+                "timeStart": "12:20:00",
+                "timeEnd": "13:10:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "NjNhZTAyNDgtN2NmYy1mNTA2LWJkZWMtMzAxZDAwNmI3MTJl",
+                "texts": [
+                    "IDRIDR01",
+                    "EKLN",
+                    "GS1S"
+                ],
+                "timeStart": "13:50:00",
+                "timeEnd": "15:00:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "M2U3YTZiMGQtNWJiMy1mYWM0LTg0ZDMtMmFiOTI5MGU0Mzhj",
+                "texts": [
+                    "SVESVE01",
+                    "AAGN",
+                    "SN309"
+                ],
+                "timeStart": "10:05:00",
+                "timeEnd": "11:40:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "NWIyZTE2YzUtMzliYi1mYzRjLWJhNDctYjFlNmIyNGM1Yjdk",
+                "texts": [
+                    "MENTOR",
+                    "DLAN",
+                    "HA216"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "08:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "OTQyYWM3YmMtMWJkNC1mYTU4LWE2ODYtZDg4YzYwMmE0NjY0",
+                "texts": [
+                    "MENTOR",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "08:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZDA3N2E3NDAtMjcyYy1mODNiLTlmODItNjEwYTA0NWMwZmJl",
+                "texts": [
+                    "NÄRVARO",
+                    "MSBN",
+                    ""
+                ],
+                "timeStart": "09:50:00",
+                "timeEnd": "11:30:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "Yjc5MjMxZDctNzdlOS1mZTgwLWJjMmEtMTQwOGIyNDRjZmNm",
+                "texts": [
+                    "IDRIDR01",
+                    "EKLN",
+                    "GS1S"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "MTJjNGY5NDYtMDZhYy1mZGJjLTgzOTQtZWYyZDY2N2ExZGVk",
+                "texts": [
+                    "MATMAT01a",
+                    "CAKI",
+                    "SE3060"
+                ],
+                "timeStart": "11:40:00",
+                "timeEnd": "12:25:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            }
+        ]
+    },
+    "TEST24": {
+        "lessonInfo": [
+            {
+                "guidId": "NWIyNDkwNzctMTA2OS1mMWQwLWE3M2MtZDg4Yjk5MGVhMGRl",
+                "texts": [
+                    "BILBIL01b",
+                    "MANR",
+                    "SE3083"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "10:40:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND2FM"
+            }
+        ]
+    },
+    "EK22A": {
+        "lessonInfo": [
+            {
+                "guidId": "MDg5NmRjNDgtNjcxYS1mODI2LWE2ZWEtMTI5NjllMGVjOTAw",
+                "texts": [
+                    "FILFIL01",
+                    "",
+                    "AALC",
+                    "SE3007,SE3062"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "NzVjOWNlOWItZDM5Ny1mMDY0LTliM2EtMjVmYWNmNWE5NTY4",
+                "texts": [
+                    "MATMAT00S",
+                    "",
+                    "ASRR",
+                    "SE2104"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZDU2M2RlNDktZjZiNy1mNGI3LTk0MjYtZDkxODE2ZTk4NjAw",
+                "texts": [
+                    "FÖRFÖR00S",
+                    "",
+                    "BTIS",
+                    "SE3060"
+                ],
+                "timeStart": "10:50:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "EK3INR3"
+            },
+            {
+                "guidId": "MmJiOWYzNmQtODU3Mi1mMDA1LTg0MDgtMWRmY2ZkODdjZTI5",
+                "texts": [
+                    "VEKVEK0",
+                    "",
+                    "JMHM",
+                    ""
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "YTBhMjA0YzUtYWRiMC1mNmQ0LWFlYTEtYjg0MzAzN2FhYzY0",
+                "texts": [
+                    "DIGDIG01",
+                    "",
+                    "LSSM",
+                    "SN338"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "YzAwY2QyMzYtYjY4Ny1mNDExLWFjNjYtNmUyNTRlYTIzOTlh",
+                "texts": [
+                    "MALMAL01",
+                    "",
+                    "LALT",
+                    "DA222KÖK"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZjhhMTY0YTctNzNlMS1mMzAxLThkZDUtNTczYWE5NWIwNDQ5",
+                "texts": [
+                    "VEKVEK0",
+                    "",
+                    "FKCN",
+                    ""
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ODQ1ODNmYzctYWM3OC1mYWZiLTgxM2ItN2IyYTM4ZWIxNzYy",
+                "texts": [
+                    "JURRÄT0",
+                    "",
+                    "EAUD",
+                    "SE3062"
+                ],
+                "timeStart": "10:50:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "EK3INR3"
+            },
+            {
+                "guidId": "YTZhNzRmYjQtMzg2ZS1mYTQ5LWJlOGEtNjEzZWVkZTQwZGE0",
+                "texts": [
+                    "JURRÄT0",
+                    "",
+                    "TESN",
+                    "SE3061"
+                ],
+                "timeStart": "10:50:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "EK3INR3"
+            },
+            {
+                "guidId": "ZjU3ZjA3MDktYzljNC1mMGE1LTgwMzctN2IwM2JmYWMxZjQ0",
+                "texts": [
+                    "DESDES01",
+                    "",
+                    "MANR",
+                    "SE3077"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MjQ1OTJkZTYtODI2Ny1mOTM3LTlmZTgtYWQ5ODMzNGU0ZTgw",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "AALT",
+                    "SE2103"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZTdkNmQxNjctMzBkOC1mNTMyLWEzZTctMDkwYzhhNjBhM2I4",
+                "texts": [
+                    "FOTFOT01",
+                    "",
+                    "KAJN",
+                    "SE3086"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MTI0YjU4ZTMtOTA3ZC1mZmYxLTkzNTAtODJiNmUxNDE2Zjll",
+                "texts": [
+                    "SKGSKO01",
+                    "",
+                    "",
+                    ""
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MzFlNTNkZDUtNDNjZC1mMmZiLTk3ZjQtYjQ2ZDc1NTg1YWRi",
+                "texts": [
+                    "FÖRFÖR00S",
+                    "",
+                    "MSAN",
+                    "SE2070"
+                ],
+                "timeStart": "10:50:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "EK3INR3"
+            },
+            {
+                "guidId": "MTFhZjc3NDktMjM1ZC1mZjc2LWEyM2MtNTA0NTAzYTA3MWM4",
+                "texts": [
+                    "GRUGRD0",
+                    "",
+                    "JNFG",
+                    "DA322"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "N2FhZmJjMWQtYWRmNy1mM2ViLWEyY2QtMjA4YzdiNmFjZjFl",
+                "texts": [
+                    "IDRIDR02",
+                    "",
+                    "HALR",
+                    "GS1S"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "YzdlMGZlNTQtZDBkOC1mYmYyLTg2MTItZWM0MmRhMzc5YzEw",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "MNEM",
+                    "SE2106"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZmQyYjkyOGYtZDc3Zi1mNjc5LWFjN2UtMWQ5ZWQyMTlhNjRi",
+                "texts": [
+                    "SERSER01",
+                    "",
+                    "MAKK",
+                    "DA225MSAL,DA205"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "NmMxZWQzMDItYjlkMi1mMjRlLWI5OGEtZDkwZWZhN2ViNTA0",
+                "texts": [
+                    "SOISOO0",
+                    "",
+                    "LNAN",
+                    "HA129"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZWIzZmNkNzktZjU1Yy1mMTg0LTllY2MtYjBiMzc4ZTUyMTQx",
+                "texts": [
+                    "HUMHUM00S",
+                    "",
+                    "PKPE",
+                    ""
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZjU2OThkOTUtMWI5Ni1mYzhkLThmMTQtZWJmYzQwOTMzYzYw",
+                "texts": [
+                    "SAASVT0",
+                    "",
+                    "TNAN",
+                    ""
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZWQ2NmNhMTAtZjU1MC1mMWNlLThkMjYtNTViNmRhYzU4MGY1",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "KRLE",
+                    "HA216"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MDMwYzE4MGQtNTgzNy1mZjhmLWI1MWUtMTNmNjM1ODZjM2Nk",
+                "texts": [
+                    "DIGDIG01",
+                    "",
+                    "KAWN",
+                    "SN339"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MzVhNGEyZjMtYzY4MS1mYzJhLWI0ZjgtNGU3MTQ0OTBhOTEz",
+                "texts": [
+                    "NAKNAK02",
+                    "",
+                    "IEEL",
+                    "SE2045"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZTY4ZTQ0NDEtNDZkMC1mZDllLTg3ZWEtMzcwOTM4NjNjYTNl",
+                "texts": [
+                    "PEDAKI00S",
+                    "",
+                    "KASD",
+                    "SE2036"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "ZTJlNWYzNDMtNmFiNC1mYjJlLWI3OWQtZTgzMjg2Y2MwY2I1",
+                "texts": [
+                    "MALMAL01",
+                    "",
+                    "KMLT",
+                    "DA204"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MTM4MDNiODgtZGQ4OC1mZWM4LWFmMzItNjQ5NTliMDIyMTAy",
+                "texts": [
+                    "BILBIL01b",
+                    "",
+                    "LABR",
+                    "SE3083"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "Yzc1NmQ1ZTYtMzM5ZC1mOTYzLWIyNWQtODg1NjU4MGExMGU1",
+                "texts": [
+                    "HUMHUM00S",
+                    "",
+                    "PKPE",
+                    "HA231"
+                ],
+                "timeStart": "12:50:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "OWUxYjlkMDItNzQ0ZC1mOWU0LTlmNzctOTE2OWIxMjgxMDgy",
+                "texts": [
+                    "IDRIDO02",
+                    "PRSN,KASD",
+                    ""
+                ],
+                "timeStart": "13:00:00",
+                "timeEnd": "14:30:00",
+                "dayOfWeekNumber": 1,
+                "blockName": "IND3EM"
+            },
+            {
+                "guidId": "MzBjZjQyMGYtNjc2NC1mYzNiLTg5MDEtNzEyNGMzYjIxZGE3",
+                "texts": [
+                    "SVASVA03",
+                    "AIEM",
+                    "DA326GR"
+                ],
+                "timeStart": "09:10:00",
+                "timeEnd": "10:40:00",
+                "dayOfWeekNumber": 1,
+                "blockName": ""
+            },
+            {
+                "guidId": "NDBiNDlkZTUtMDRlMi1mMTYzLTk5ZjUtZmNlNDdjMjQyNDk3",
+                "texts": [
+                    "FÖRENT0",
+                    "",
+                    "BTIS",
+                    "SE2100"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:35:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B4"
+            },
+            {
+                "guidId": "Yjk0OWQ2YmYtYzdkNy1mZWE0LThiYTctOWE1Y2Y5ZGQ0ZWQ1",
+                "texts": [
+                    "PSKPSY01",
+                    "PKPE",
+                    "SN309"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:50:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3AB1"
+            },
+            {
+                "guidId": "YmI0Y2Y4YTctMTcyMy1mMTVlLTg1ZWUtNGI4Y2FlYjc3Zjhl",
+                "texts": [
+                    "JURAFF0",
+                    "",
+                    "EAUD",
+                    "SE2106"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:35:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B4"
+            },
+            {
+                "guidId": "ZjVhYTBiYjMtYTNlZi1mNGE2LThkZTUtMmI0NjZiNTA5M2E2",
+                "texts": [
+                    "JURAFF0",
+                    "",
+                    "TESN",
+                    "SE2103"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:35:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B4"
+            },
+            {
+                "guidId": "MTdhMTdhYmQtMzk1ZC1mZDUzLTg1MjQtOWZjZjczMTE4NTcy",
+                "texts": [
+                    "GYAREK",
+                    "",
+                    "RDGN",
+                    "SE2100"
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3AGY"
+            },
+            {
+                "guidId": "NTgwZDcxNWItMzMxZi1mNjUzLTg2Y2EtNTA0ZDU4NmU2YmVh",
+                "texts": [
+                    "MATMAT03b",
+                    "ETFL",
+                    "SE3060"
+                ],
+                "timeStart": "13:00:00",
+                "timeEnd": "13:50:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B7"
+            },
+            {
+                "guidId": "YmE2YmYxMTktNTgyOC1mODM0LWFlZDctMmIwMzRlMTE3NDg1",
+                "texts": [
+                    "GYAREK",
+                    "",
+                    "ETFL",
+                    "SE2100"
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3AGY"
+            },
+            {
+                "guidId": "MTI3NTQ1NzctNjM0Ni1mYmRjLWEyODAtOWU5NDgzZjBhNjRl",
+                "texts": [
+                    "SVESVE03",
+                    "MLKN",
+                    "SN212"
+                ],
+                "timeStart": "14:00:00",
+                "timeEnd": "15:30:00",
+                "dayOfWeekNumber": 2,
+                "blockName": ""
+            },
+            {
+                "guidId": "NjFlZGQ2OWQtYzdjNC1mMGViLWE4MTAtZGRkZGJkOWZmZWE0",
+                "texts": [
+                    "MATMAT03b",
+                    "CAKI",
+                    "SE3057"
+                ],
+                "timeStart": "13:00:00",
+                "timeEnd": "13:50:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B7"
+            },
+            {
+                "guidId": "MjIxOTI3N2QtOWZhMC1mN2EwLWEyY2MtMTJmNmUwNTVjNjE1",
+                "texts": [
+                    "FÖRENT0",
+                    "",
+                    "MSAN",
+                    "SE2104"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:35:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3B4"
+            },
+            {
+                "guidId": "NmM5NTc3ZjEtZDk4Ni1mNmZjLWEzZDUtMWVmNDZjNWE0OTZi",
+                "texts": [
+                    "GYAREK",
+                    "",
+                    "TESN",
+                    "SE2045"
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3AGY"
+            },
+            {
+                "guidId": "MThiY2Q0Y2YtOTcxZC1mMDk0LTk0MDQtYmZjZjljZjcwMDg5",
+                "texts": [
+                    "GYAREK",
+                    "",
+                    "EKLN",
+                    "SE2045"
+                ],
+                "timeStart": "08:30:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 2,
+                "blockName": "EK3AGY"
+            },
+            {
+                "guidId": "M2NmMTUzNzYtMzA4MC1mMzllLTlhOTEtNTk5MDFhN2Q4Nzc3",
+                "texts": [
+                    "IDRIDO02",
+                    "PRSN,KASD,KMGK,JAJN,CELT,EKLN,HSSI",
+                    ""
+                ],
+                "timeStart": "13:45:00",
+                "timeEnd": "15:15:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "MGNkZDAwMTgtZWM0ZS1mZGQyLWI0NDEtZDY3OWE3Zjk4NzE0",
+                "texts": [
+                    "MENTOR",
+                    "ETFL",
+                    "SN339"
+                ],
+                "timeStart": "10:55:00",
+                "timeEnd": "11:15:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "EK3AM"
+            },
+            {
+                "guidId": "OWRkZTQ4NzMtMjY0Yi1mM2JjLWIyZTMtMzI4ZmIyYTQzZDg5",
+                "texts": [
+                    "GEOGEO01",
+                    "",
+                    "LSJN",
+                    "SN310"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "NjQ0NjY2M2UtMjUxMS1mZTU3LTk2ZDEtZTk4NzFiZWZiMzUy",
+                "texts": [
+                    "MATMAT03b",
+                    "",
+                    "LARN",
+                    "SE2070"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MTdiMmYzYWQtNzMyYi1mNDA0LWI1NzYtMDAxOGM4ZWQ0MjZh",
+                "texts": [
+                    "SAMINR0",
+                    "",
+                    "AAVM",
+                    "SN228"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MzE5MWQ0MTgtMGMwMi1mNzAyLTg5ZTktYWQ0MTc2ODI2OTlm",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "LAHN",
+                    "HA126"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MjY5ZTY2OTctODk2OC1mMjY5LWJhNzgtMzQ3YzZlYjM4YTQy",
+                "texts": [
+                    "SAMINE0",
+                    "RDGN",
+                    "SN339"
+                ],
+                "timeStart": "09:25:00",
+                "timeEnd": "10:45:00",
+                "dayOfWeekNumber": 3,
+                "blockName": ""
+            },
+            {
+                "guidId": "MWI5M2ZlNjctMWViYy1mMjk4LWE4MDktNzVhMzdiZWE5MTdh",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "MAHN",
+                    "HA118"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "ODJhMDI3YzktZWQ0Ni1mMDE0LTk2YmItNTZhZWEzYjRjMGRj",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "AYMS",
+                    "HA217"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "YWVlZDU4MDMtN2MzZi1mMjViLWFhZmQtZGU5MWY2MmQxMTk3",
+                "texts": [
+                    "MENTOR",
+                    "EKLN",
+                    "SN339"
+                ],
+                "timeStart": "10:55:00",
+                "timeEnd": "11:15:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "EK3AM"
+            },
+            {
+                "guidId": "MDc1ZWYwNmQtYTEyNi1mMjYxLThhMWUtMDVkYmY1N2FjNGY4",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "MSAN",
+                    "SE2106"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "ZTk4MDAzN2UtNzlmMi1mMWI2LWI0ODYtYWViZTc4N2ZhYWEw",
+                "texts": [
+                    "SVERET0",
+                    "",
+                    "KAWN",
+                    "SN229"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "ZWMzZTQ0ZDYtNzc3ZS1mNGQyLThmYTktZGM1MDdjOTgzZWFm",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "BTIS",
+                    "SE2106"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "NGM5MTUwNGQtMzlmYi1mNjdlLTgwN2ItNGNhNzJmZTZkNjA2",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "DLAN",
+                    "HA228"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MjRiZGZlY2UtZmVkNy1mYzI5LWFjYmItZTUzZmRmODkzMTg4",
+                "texts": [
+                    "GEOGEO01",
+                    "",
+                    "PKPE",
+                    "SN303"
+                ],
+                "timeStart": "12:15:00",
+                "timeEnd": "13:30:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MTYxMTY3MDgtN2RkYi1mODJhLTlhZGYtNjQ0MTg0Y2MyYzI4",
+                "texts": [
+                    "MENTOR",
+                    "ETFL",
+                    "SE3060"
+                ],
+                "timeStart": "13:40:00",
+                "timeEnd": "14:20:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "EK3AM"
+            },
+            {
+                "guidId": "MTQxM2M2ZDMtOGYwYy1mNDczLTg0YzMtNDA0YjNjY2Q1NjRj",
+                "texts": [
+                    "MENTOR",
+                    "EKLN",
+                    "SE3060"
+                ],
+                "timeStart": "13:40:00",
+                "timeEnd": "14:20:00",
+                "dayOfWeekNumber": 3,
+                "blockName": "EK3AM"
+            },
+            {
+                "guidId": "MWJhNWFjMWItZjA3Ni1mYjA0LTk0ZjctNDVkMTBmNGFlODYw",
+                "texts": [
+                    "JURRÄT0",
+                    "",
+                    "EAUD",
+                    "SE3062"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B5"
+            },
+            {
+                "guidId": "OTkzNGQ1NzgtNmVhMy1mN2I4LTlhOTYtZjY4N2JmMDZhYzVk",
+                "texts": [
+                    "PSKPSY01",
+                    "PKPE",
+                    "SN228"
+                ],
+                "timeStart": "13:45:00",
+                "timeEnd": "15:10:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3AB1"
+            },
+            {
+                "guidId": "NDNiNTIwZTYtZGEzMi1mODczLWJiM2QtYzQ1NDdiODQ5ZGM0",
+                "texts": [
+                    "SAMINE0",
+                    "RDGN",
+                    "SE2100"
+                ],
+                "timeStart": "09:30:00",
+                "timeEnd": "10:45:00",
+                "dayOfWeekNumber": 4,
+                "blockName": ""
+            },
+            {
+                "guidId": "OTJmZmU4NDQtNWQ5Yy1mMzM2LTkwOTQtZWMzYWNhNTEwODZk",
+                "texts": [
+                    "FÖRFÖR00S",
+                    "",
+                    "BTIS",
+                    "SE2100"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B5"
+            },
+            {
+                "guidId": "YmU2NjY4ODUtZDk4ZS1mMmFiLWE0YzQtYmM2MjAwYzhjZDg5",
+                "texts": [
+                    "JURRÄT0",
+                    "",
+                    "TESN",
+                    "SE3060"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B5"
+            },
+            {
+                "guidId": "ZmIxMDk2MjctYmJiOC1mMDE4LWIyOWUtZjk2ZDFlNTdhNjJm",
+                "texts": [
+                    "MATMAT03b",
+                    "CAKI",
+                    "SE2103"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B2"
+            },
+            {
+                "guidId": "YmE4NDYzZjMtMTY0OS1mNGQzLTk4ZjMtZjA1ZjdkZTI5ODI0",
+                "texts": [
+                    "MATMAT03b",
+                    "ETFL",
+                    "SE3062"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:10:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B2"
+            },
+            {
+                "guidId": "OTJmYzA3NmItZDZkZi1mYTE0LWJjMzgtMGYyZjQwNjU5Yjg5",
+                "texts": [
+                    "FIOFIO01",
+                    "RDGN",
+                    "HA129"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:30:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B2"
+            },
+            {
+                "guidId": "ZmUyMWQ2MGQtZTQ1MS1mOGY4LTkyZTMtNjVhNDVhOTQyMWI3",
+                "texts": [
+                    "FÖRFÖR00S",
+                    "",
+                    "MSAN",
+                    "SE2069"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:20:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B5"
+            },
+            {
+                "guidId": "YmUyODBjMjUtNGI1OS1mOGE5LWFkNjgtYzAxOGU4Y2Q4ZTkz",
+                "texts": [
+                    "FIOFIO01",
+                    "MLKN",
+                    "SN339"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:30:00",
+                "dayOfWeekNumber": 4,
+                "blockName": "EK3B2"
+            },
+            {
+                "guidId": "N2FhNWMyZGYtMzBmMy1mMDQ1LThiNmQtZGM0MmQ0OWY4OGNh",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "BTIS",
+                    "SE2106"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "ZjFlNzQ4YmMtY2M5ZC1mNTcxLWIzY2MtZjEwOTY2Y2ZmMGM1",
+                "texts": [
+                    "JURAFF0",
+                    "",
+                    "EAUD",
+                    "SE3061"
+                ],
+                "timeStart": "13:25:00",
+                "timeEnd": "14:55:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B3"
+            },
+            {
+                "guidId": "NjBhM2NiMjUtYzZmYi1mOWNkLTg2MjgtY2EzNTc4MGMwYzY3",
+                "texts": [
+                    "MATMAT03b",
+                    "CAKI",
+                    "SE2106"
+                ],
+                "timeStart": "09:35:00",
+                "timeEnd": "10:40:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B1"
+            },
+            {
+                "guidId": "ZmE4ZDA1NjctOTZlOS1mMjYyLWE2NWUtZWVlOTZmM2I4YWI5",
+                "texts": [
+                    "ENTENR0",
+                    "",
+                    "MSAN",
+                    "SE2106"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "YzI3OTM5MTktOGM5MC1mMmZiLTkwNmYtNTEzNDhlZmI2ZmZj",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "DLAN",
+                    "HA129"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MDhjMWNmZDctZjg2Yi1mOWE2LThiMGQtMmIzNmRjMWYyYzk4",
+                "texts": [
+                    "SVESVE03",
+                    "MLKN",
+                    "SN213"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            },
+            {
+                "guidId": "ZjExZGJjMmQtODlkZC1mN2JlLWJlN2ItYWQxYjkyZmYzOTVj",
+                "texts": [
+                    "GEOGEO01",
+                    "",
+                    "LSJN",
+                    "SN309"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MDhlZmQ5MWUtZDRlNi1mMzkyLWI4MjItNWJkNTU4NjE4ZWM5",
+                "texts": [
+                    "SAMINR0",
+                    "",
+                    "AAVM",
+                    "SN228"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MTA2ZmNiNDItYzUxZS1mM2M1LTg4NWYtZjc4YWNlYzkzYWQx",
+                "texts": [
+                    "FÖRENT0",
+                    "",
+                    "BTIS",
+                    "SE2106"
+                ],
+                "timeStart": "13:25:00",
+                "timeEnd": "14:55:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B3"
+            },
+            {
+                "guidId": "MDg4ZjZlZTgtZTE4YS1mNzU3LWFkZmYtYWJkYWE0MDk1OTg2",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "MAHN",
+                    "HA118"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MWNjNzVmMzQtYzllZS1mMTlkLThhOTEtMWUwODYzMWYyNjg1",
+                "texts": [
+                    "SVERET0",
+                    "",
+                    "KAWN",
+                    "SN229"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "YjkyZmRjYTMtMjMxNS1mOWRjLWI1OTEtYjg2ZWUzODQ2M2E2",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "AYMS",
+                    "HA216"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "MjMzMWM2NGUtMTc4Yi1mZTg5LTg0MmItNDFmZWNjYTFhYmMw",
+                "texts": [
+                    "FIOFIO01",
+                    "MLKN",
+                    "HA129"
+                ],
+                "timeStart": "09:35:00",
+                "timeEnd": "11:10:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B1"
+            },
+            {
+                "guidId": "OTVmOThlZDItOTIzZS1mOWNhLWI1M2UtZTJkNWY5YWU0MzNi",
+                "texts": [
+                    "MATMAT03b",
+                    "ETFL",
+                    "SE2103"
+                ],
+                "timeStart": "09:35:00",
+                "timeEnd": "10:40:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B1"
+            },
+            {
+                "guidId": "YjZmMjcyM2UtYTIyNi1mOGRjLTg2ZDUtZGVlMWU4NDc0ZmMz",
+                "texts": [
+                    "JURAFF0",
+                    "",
+                    "TESN",
+                    "SE2104"
+                ],
+                "timeStart": "13:25:00",
+                "timeEnd": "14:55:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B3"
+            },
+            {
+                "guidId": "MThjYTgzY2UtN2U3Zi1mMzllLWE0NDgtMzI2OWRlYzE3MGRk",
+                "texts": [
+                    "MATMAT03b",
+                    "",
+                    "LARN",
+                    "SE3057"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "Yjc4MmNkNTMtMDNhYi1mNWU1LWIyYTktMzNmYWQ5YzBkNjc2",
+                "texts": [
+                    "FIOFIO01",
+                    "RDGN",
+                    "HA125"
+                ],
+                "timeStart": "09:35:00",
+                "timeEnd": "11:10:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B1"
+            },
+            {
+                "guidId": "MDYxMTdmYmMtOGE4Yi1mZWU4LTk3NDUtMjI1MjdjMzg5NzJk",
+                "texts": [
+                    "FÖRENT0",
+                    "",
+                    "MSAN",
+                    "SE2100"
+                ],
+                "timeStart": "13:25:00",
+                "timeEnd": "14:55:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "EK3B3"
+            },
+            {
+                "guidId": "MDk5OTA3MWQtYjNlNC1mNzVhLWJjMzMtMDgxY2VlNTA5OGMz",
+                "texts": [
+                    "ENGENG07",
+                    "",
+                    "LAHN",
+                    "HA126"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "NjhlZDI0OTUtYWE5OS1mZTYwLTllZTEtZTMzMjdjYzcyNTYx",
+                "texts": [
+                    "GEOGEO01",
+                    "",
+                    "PKPE",
+                    "SN303"
+                ],
+                "timeStart": "11:20:00",
+                "timeEnd": "12:35:00",
+                "dayOfWeekNumber": 5,
+                "blockName": "WGPFE3"
+            },
+            {
+                "guidId": "OGM4NzNlYzgtNmE4OS1mOTc3LTg3NTYtZWFlNWMyZDE2NTVi",
+                "texts": [
+                    "SVASVA03",
+                    "AIEM",
+                    "DA326GR"
+                ],
+                "timeStart": "08:00:00",
+                "timeEnd": "09:10:00",
+                "dayOfWeekNumber": 5,
+                "blockName": ""
+            }
+        ]
+    }
+}
+
+
+
+
+
