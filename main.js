@@ -23,34 +23,30 @@ function getTime() { // klocka
     return result
 }
 function getLektion(data, klass) {
+    var results = [];
     const obj = data[klass].lessonInfo
     const datum = new Date()
     const dag = (datum.getDay())
-    //console.log(dag)
+    console.log(dag)
     const time = getTime()
     //console.log(obj)
     var rastcheck = true;
-    for (const thing of obj) {
-        if (thing.dayOfWeekNumber == dag) { //yanderedev bör vara proud
-            if (thing.timeEnd > time) {
-                if (thing.timeStart < time) {
-                    rastcheck = false
-                    var namn;
-                    if (thing.blockName == "IND2FM") { // :C
-                        namn = "IND2FM"
-                    } else {
-                        namn = thing.texts[0]
-                    }
-                    console.log(klass," har börjat", namn, "i klassrum", thing.texts[Number(thing.texts.length -1)])
-                    rastcheck = false
-                    var tois = [thing.texts, thing.timeStart, thing.timeEnd]
-                    return tois
-                }
-
+    for (const lektion of obj) {
+        if ((lektion.dayOfWeekNumber == dag) && (lektion.timeEnd > time) && (lektion.timeStart < time)) { //yanderedev bör vara proud
+            rastcheck = false
+            var namn;
+            if (lektion.blockName == "IND2FM") { // :C
+                namn = "IND2FM"
+            } else {
+                namn = lektion.texts[0]
             }
-
+            console.log(klass," har börjat", namn, "i klassrum", lektion.texts[Number(lektion.texts.length -1)])
+            rastcheck = false
+            var tois = [lektion.texts, lektion.timeStart, lektion.timeEnd]
+            results.push(tois)
         }
     }
+    return results;
 }
 
 function clearHTML() {
@@ -61,12 +57,22 @@ function clearHTML() {
 function uppdateraHTML(text, klass) {
 	let box = document.getElementsByClassName("box")[0];
 	let child = document.createElement("p");
-	child.textContent = klass+" har just nu "+text;
+	child.innerHTML = klass+" har just nu "+text;
 	box.appendChild(child);
+}
+function generateLektionFrånArray(currlektion) {
+    let result = "";
+    if(currlektion.length == 0) return "ingen lektion";
+    for (lek_index in currlektion) {
+        result+=currlektion[lek_index];
+        if(lek_index < currlektion.length-1) result += " och ";
+
+    }
+    return result;
 }
 function uppdatera() {
 	clearHTML();
-    const program = ["TE23", "TE24", "ESMUS24", "FT24", "EK22A"] //alla linjer jag tagit med
+    const program = ["TE23", "TE24", "ESMUS24", "FT24", "EK22A", "NA23"] //alla linjer jag tagit med
     fetch('classinfo.json')
     .then(function(response) {
       return response.json();
@@ -74,7 +80,7 @@ function uppdatera() {
     .then(function(data) {
         for (let i = 0; i < program.length; i++) {
            var currlektion = getLektion(data, program[i])
-			uppdateraHTML(currlektion ?? "ingen lektion", program[i]);
+			uppdateraHTML(generateLektionFrånArray(currlektion), program[i]);
           // var skatext = program[i] + " har just nu " + currlektion[0][0] + " i " + currlektion[0][2]
            //console.log(skatext)
 /*            console.log(currlektion)
