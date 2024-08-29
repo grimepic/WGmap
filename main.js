@@ -6,7 +6,7 @@ mtext.addEventListener("click", myFunction);
 
 function myFunction() {
   mtext.style.color = "red"
-} 
+}
 function addZero(t) { // lägger till en siffra om det är en siffra 1 blir till 01
     if (t < 10) { t = "0" + t};
     return t
@@ -46,16 +46,26 @@ function getLektion(data, klass) {
                     var tois = [thing.texts, thing.timeStart, thing.timeEnd]
                     return tois
                 }
-                    
+
             }
 
-        } 
+        }
     }
 }
-function uppdateraHTML(text, klass) {
 
+function clearHTML() {
+	let box = document.getElementsByClassName("box")[0];
+	Array.from(box.children).forEach(child => child.remove());
+}
+
+function uppdateraHTML(text, klass) {
+	let box = document.getElementsByClassName("box")[0];
+	let child = document.createElement("p");
+	child.textContent = klass+" har just nu "+text;
+	box.appendChild(child);
 }
 function uppdatera() {
+	clearHTML();
     const program = ["TE23", "TE24", "ESMUS24", "FT24", "EK22A"] //alla linjer jag tagit med
     fetch('classinfo.json')
     .then(function(response) {
@@ -64,19 +74,21 @@ function uppdatera() {
     .then(function(data) {
         for (let i = 0; i < program.length; i++) {
            var currlektion = getLektion(data, program[i])
+			uppdateraHTML(currlektion ?? "ingen lektion", program[i]);
           // var skatext = program[i] + " har just nu " + currlektion[0][0] + " i " + currlektion[0][2]
            //console.log(skatext)
 /*            console.log(currlektion)
            if (currlektion[3] == true) {
             console.log(program[i], "har rast just nu")
            } */
-           
+
 
         }
-        
 
-     
+
+
     });
 }
 
+uppdatera();
 setInterval(uppdatera, 5000)
